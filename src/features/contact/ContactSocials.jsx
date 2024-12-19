@@ -22,7 +22,7 @@ function ContactSocials() {
     },
 {
 social:"dev.to",
-un:"manavss",
+un:"Kaustubh",
 href:"https://www.dev.to"
 }
   ];
