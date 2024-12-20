@@ -11,7 +11,7 @@ export const project = [
     image: vscode,
     tags: ["react", "tailwind", "axios"],
     sourceCode: "https://github.com/kaustubhaadhav/Portfolio",
-    demo: "",
+    demo: "https://portfolio-nine-smoky-49.vercel.app",
   },
   {
     title: "Railway-Reservation",
