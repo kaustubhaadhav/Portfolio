@@ -29,7 +29,7 @@ react-async-helmet
 
 ## Authors
 
-* **Kaustubh Adhav** - *MS-CS* - [Kaustubh Adhav](https://github.com/kaustubhadhav/) - *Developer*
+* **Kaustubh Adhav** - *MS-CS* - [Kaustubh Adhav]([https://github.com/kaustubhadhav/)](https://github.com/kaustubhaadhav) - *Developer*
 
 
 
